@@ -1,0 +1,22 @@
+*{
+font-family: "Special Elite", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+
+header{
+  font-size: 20px;
+}
+
+.interface nav ul li a{
+  color:black;
+  text-decoration: none;
+  cursor: default;
+}
+
+
+
+.interface nav ul{
+  list-style-type: none;
+}
